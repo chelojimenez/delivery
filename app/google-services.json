@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593982799615",
+    "firebase_url": "https://deliveryapp-d72de.firebaseio.com",
+    "project_id": "deliveryapp-d72de",
+    "storage_bucket": "deliveryapp-d72de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593982799615:android:f287c17c5c82cf26fc56ca",
+        "android_client_info": {
+          "package_name": "com.chelito.deliveryv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593982799615-uuogeilt42a50d7lb7jams4mdnrp4la4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIF_ZFzPU6Frgq6zUtZeTQWxayi4hQXHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593982799615-uuogeilt42a50d7lb7jams4mdnrp4la4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Deliveryv2</string>
+    <string name="slogan">Mas conectados que nunca</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="registrarse">Registrarse</string>
+</resources>
